@@ -5,3 +5,5 @@ This procedure is for free GitHub account.
 1.	Go to https://github.com/join.
 2.	Type a Username, your Email address, and a Password.
 3.	Choose Sign up for GitHub.
+
+![Github1](https://user-images.githubusercontent.com/87574534/132810172-aee3fdba-4cfb-40f9-bd75-6da4eac02430.png)
